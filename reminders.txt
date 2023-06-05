@@ -1,0 +1,2 @@
+- Write yourself reminders here to be randomly given when you quit the program.
+- Write one per line.
